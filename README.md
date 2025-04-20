@@ -1,1 +1,1 @@
-# my-password-generator
+A simple Python-based tool that generates strong, random passwords using a mix of letters, numbers, and symbols. This program allows users to specify password length and ensures each password is secure and unique.
